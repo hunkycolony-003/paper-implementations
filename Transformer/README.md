@@ -1,6 +1,6 @@
 # Transformer
 
-My implementation of the Transformer paper.
+My implementation of the Transformer paper, following [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/#inference), by Harvard NLP.
 
 ## Setup
 
